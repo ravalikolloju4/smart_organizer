@@ -312,7 +312,7 @@ function renderVoiceNotes() {
 
 // ------------------------ UTILITY ------------------------
 function goHome() {
-  window.location.href = '../frontend/index.html';
+  window.location.href = '/index.html';
 }
 
 // ------------------------ INIT ------------------------
