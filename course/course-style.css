@@ -1,4 +1,9 @@
 /* Notes */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .note-box {
   position: relative;
   border: 1px solid #ddd;
